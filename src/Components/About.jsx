@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Sou um estudante da área de dados com foco em recursos Microsoft, além de ser apaixonado por dados, eu também gosto de resolver problemas reais com isto.";
+  "Sou estudante da área de dados com foco em recursos Microsoft, além de ser apaixonado por dados, eu também gosto de resolver problemas reais com isto.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
