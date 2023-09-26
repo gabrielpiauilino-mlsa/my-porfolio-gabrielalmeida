@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Sou um estudante da área de dados com foco em recursos Microsoft, sou apaixonado por dados e gosto de resolver problemas reais com isto.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Azure Data Science",
+  "Power BI",
+  "Inclusive Reports",
+  "Embedded Analytics",
+  "Azure Synapse Analytics",
+  "Azure Data Factory",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Gabriel nasceu em São Paulo em 1996, mas foi no Piauí, crescendo sob a influência da mãe, professora de matemática, que desenvolveu uma afinidade natural pelos números e pela solução de problemas. Essa base sólida o guiou ao mundo da tecnologia, passando pela área da educação, suporte e dados, onde atualmente se destaca como Desenvolvedor e Consultor em Dados na Smart Consulting, uma empresa parceira Microsoft.  Com conhecimento vasto em estatística e em ferramentas como Power BI e linguagens como Python, Java e JavaScript, Gabriel transforma complexidades numéricas em soluções concretas, tornando os dados não apenas acessíveis, mas valiosos para tomadas de decisão. Seu background único, combinado com sua paixão por dados e em ensinar, o destaca como um profissional único.  Além de sua carreira na área de dados, Gabriel também investe em sua formação acadêmica, atualmente cursando Gestão da Tecnologia da Informação na Universidade de São";
 
 const About = () => {
   return (
@@ -60,7 +60,7 @@ const About = () => {
           textAlign: "center",
         }}
       >
-        <h2>About Myself</h2>
+        <h2>Sobre eu</h2>
         <p className="large">{description}</p>
         <hr />
         <ul

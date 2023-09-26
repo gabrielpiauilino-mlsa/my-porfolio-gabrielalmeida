@@ -51,6 +51,8 @@ h1 {
   font-weight: 400;
   line-height: 0.8;
   margin: 0;
+  color:rgb(244, 244, 244);
+  background-color: rgba(11, 10, 10, 0.838);
 }
 
 h2 {
@@ -94,7 +96,7 @@ li::marker {
 }
 
 a {
-  color: black;
+  color: rgb(11, 11, 11);
   text-decoration: none;
 }
 
